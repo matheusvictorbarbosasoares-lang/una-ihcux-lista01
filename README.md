@@ -1,4 +1,4 @@
-# ⚡ Meus Comandos Favoritos
+ Meus Comandos Favoritos
 Aqui estão os comandos que mais utilizei na aula de Terminal:
 
 - `cd`: Para navegar entre pastas.
@@ -7,5 +7,5 @@ Aqui estão os comandos que mais utilizei na aula de Terminal:
 - `type`: Para criar arquivos vazios.
 - `echo`: Para escrever dentro de arquivos.
 
-## 📸 Evidência de Execução
+ Evidência de Execução
 ![Foto do meu terminal](./image.png)
